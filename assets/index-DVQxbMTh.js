@@ -249,4 +249,4 @@ Please change the parent <Route path="${f}"> to <Route path="${f==="/"?"*":`${f}
           font-size: 16px;
           position: absolute;
           bottom: 0;
-        `})]})},ok=Iw([{element:M.jsx(ZE,{}),children:[{path:vs.MAIN,element:M.jsx(QE,{})},{path:vs.CONFIRM,element:M.jsx(rk,{})}]}],{basename:"/react-shopping-products"});function ik(){return M.jsx(fw,{router:ok})}Cu.createRoot(document.getElementById("root")).render(M.jsx(ar.StrictMode,{children:M.jsx(Tx,{children:M.jsx(ik,{})})}));
+        `})]})},ok=Iw([{element:M.jsx(ZE,{}),children:[{path:vs.MAIN,element:M.jsx(QE,{})},{path:vs.CONFIRM,element:M.jsx(rk,{})}]}],{basename:"/react-shopping-cart"});function ik(){return M.jsx(fw,{router:ok})}Cu.createRoot(document.getElementById("root")).render(M.jsx(ar.StrictMode,{children:M.jsx(Tx,{children:M.jsx(ik,{})})}));
